@@ -10,14 +10,14 @@ Other targets can be tracked by changing them.
   - Ubuntu 20.04 Foxy
 - Realsense D455
 
-##Build
+## Build
 ```shell: Terminal
 sudo nano ~/.bashrc
 cd ~/dev_ws
 colcon build --packages-select ros2_pso_track
 ```
 
-##Usage
+## Usage
 ```shell: Terminal
 cd ~/dev_ws
 . install/setup.bash
