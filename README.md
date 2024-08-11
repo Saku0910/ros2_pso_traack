@@ -1,4 +1,4 @@
-# Opencv_PSO_tracke_using_ROS2
+# Opencv_PSO_track_using_ROS2
 
 This is the ROS 2 packages for object tracking using OpenCV and PSO.
 This repository is set up to track targets by hue and saturation.
